@@ -1,3 +1,16 @@
-input("What is your name?")
 
-print("Hello, world!")
+#  ask user for permissioncl
+# name = input("What is your name?")
+# 
+# print("Hello, Mumo!")
+# 
+
+
+
+name = input("What is your name?")
+
+# "print("hello, "+ name)"
+
+
+print("hello," ,name)
+# print(f"Hello, {name}!")
