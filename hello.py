@@ -6,11 +6,26 @@
 # 
 
 
-
+"""
 name = input("What is your name?")
-
+summary_
+    Prints a greeting to the user.
+    string concantination
+    >>> print_greeting("Mumo")
 # "print("hello, "+ name)"
 
 
 print("hello," ,name)
 # print(f"Hello, {name}!")
+"""
+
+
+#  ask user for permissioncl
+
+school = input("which school you are allowed to")
+
+school = school.strip()
+
+school = school.title()
+
+print("I attend ," ,school)
