@@ -24,8 +24,8 @@ print("hello," ,name)
 
 school = input("which school you are allowed to")
 
-school = school.strip()
+school = school.strip().title()
 
-school = school.title()
-
-print("I attend ," ,school)
+# school = school.title()
+print(" i attention to, you have permission, " , school)
+# print(f"I attend ,{school}")
